@@ -1,6 +1,7 @@
+
 # TimelineCode
 
-📌 **Author & Founder:** Jurij Safronov  
+📌 **Author & Founder:** Yurij Safronov  
 🗓 **Date of Foundation:** May 30, 2025  
 🌐 **Domain:** [https://timelinecode.com](https://timelinecode.com)  
 
@@ -27,4 +28,4 @@ This repository serves as a permanent record of that claim.
 
 ---
 
-*This declaration is public and timestamped by GitHub.
+*This declaration is public and timestamped by GitHub.*
